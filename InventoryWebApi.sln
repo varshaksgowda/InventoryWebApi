@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryWebApi", "InventoryWebApi\InventoryWebApi.csproj", "{C97D2932-6B34-4158-98E9-912BDD87AF5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loginAuth", "loginAuth\loginAuth.csproj", "{77BA24C0-2A8F-40E5-A464-FBA00759433F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C97D2932-6B34-4158-98E9-912BDD87AF5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C97D2932-6B34-4158-98E9-912BDD87AF5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C97D2932-6B34-4158-98E9-912BDD87AF5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C97D2932-6B34-4158-98E9-912BDD87AF5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77BA24C0-2A8F-40E5-A464-FBA00759433F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77BA24C0-2A8F-40E5-A464-FBA00759433F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77BA24C0-2A8F-40E5-A464-FBA00759433F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77BA24C0-2A8F-40E5-A464-FBA00759433F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7D57FAC-BBE0-4710-91F1-734E14FA4CDB}
+	EndGlobalSection
+EndGlobal
